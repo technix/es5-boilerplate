@@ -1,6 +1,6 @@
 # es5-boilerplate
 
-My boilerplate for ES6 web applications.
+My boilerplate for ES5 web applications.
 
 * Webpack
 * ESLint
